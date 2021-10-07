@@ -1,4 +1,5 @@
 public class Sculpture extends Oeuvre{
+    //Attributs prives
     private String materiau;
 
     public Sculpture(String ptitre, int pannee, String partiste, String materiau) {
